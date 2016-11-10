@@ -16,7 +16,7 @@ body {
 .banner {
   background-color: #2b3851;
   position: relative;
-  height: 240px;
+  height: 238px;
 }
 
 .robot {
@@ -24,6 +24,7 @@ body {
   position: absolute;
   transform: translateX(-50%);
   left: 50%;
+  top: 22%;
 }
 
 .robot-body {
